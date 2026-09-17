@@ -1,0 +1,19 @@
+DecodeLabs DevOps Project 2
+
+Version Control with Git
+
+This project focuses on learning and practicing Git version control
+and GitHub collaboration workflows.
+
+Topics practiced:
+- Git repository initialization
+- Git status
+- Git add
+- Git commit
+- Git log
+- Git branches
+- Git merge
+- Git push
+- Git pull
+- GitHub repository
+- Pull Requests
