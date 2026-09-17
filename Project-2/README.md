@@ -1,3 +1,7 @@
+### Version Control Practice
+
+Git is used to track changes and maintian a histroy of project development. Github provides centralized remote repostry for sharing and collaborating on the project
+
 # DecodeLabs DevOps Project 2
 
 ## Version Control with Git
