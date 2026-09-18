@@ -2,6 +2,10 @@
 
 Git is used to track changes and maintian a histroy of project development. Github provides centralized remote repostry for sharing and collaborating on the project
 
+### Git Collaboration
+
+The project is maintained using Git for local version control and GitHub for remote collaboration and repostry hosting.
+
 # DecodeLabs DevOps Project 2
 
 ## Version Control with Git
